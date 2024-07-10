@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-07-10 14:13:41
+ * @LastEditTime: 2024-07-10 14:15:58
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Connect</h1>
@@ -186,7 +186,7 @@ T-Connect is a board with four different sets of module output data. It supports
 * [T-Connect_V1.0](./project/T-Connect_V1.0.pdf)
 
 ## Information
-* [TD501D485H-A_YLPTEC](./information/TD501D485H-A_YLPTEC.pdf)
+* [TD501D485H-A_K-CUT](./information/TD501D485H-A_K-CUT.pdf)
 * [TD501MCANFD_MORNSUN](./information/TD501MCANFD_MORNSUN.pdf)
 
 ## DependentLibraries

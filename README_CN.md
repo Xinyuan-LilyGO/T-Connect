@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-07-10 09:58:14
+ * @LastEditTime: 2024-07-10 14:16:11
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Connect</h1>
@@ -187,7 +187,7 @@ T-Connect是一款拥有4组不同模块输出数据的板子，支持CAN和RS48
 * [T-Connect_V1.0](./project/T-Connect_V1.0.pdf)
 
 ## 资料
-* [TD501D485H-A_YLPTEC](./information/TD501D485H-A_YLPTEC.pdf)
+* [TD501D485H-A_K-CUT](./information/TD501D485H-A_K-CUT.pdf)
 * [TD501MCANFD_MORNSUN](./information/TD501MCANFD_MORNSUN.pdf)
 
 ## 依赖库
