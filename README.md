@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-07-10 09:59:44
+ * @LastEditTime: 2024-07-10 14:13:41
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Connect</h1>
@@ -183,17 +183,12 @@ T-Connect is a board with four different sets of module output data. It supports
 * A. Please hold down the "BOOT-0" button and try downloading the program again.
 
 ## Project
-* [T-Circle-S3-AMOLED-1.43_V1.0](./project/T-Circle-S3-AMOLED-1.43_V1.0.pdf)
+* [T-Connect_V1.0](./project/T-Connect_V1.0.pdf)
 
 ## Information
-* [FT3168](./information/FT3168.pdf)
-* [PCF8563](./information/PCF8563.pdf)
-* [SH8601](./information/SH8601Z.pdf)
-* [DO0143FAT01](./information/SPEC-DO0143FAT01-20230830.pdf)
-* [AN_SY6970](./information/AN_SY6970.pdf)
-* [EVB_SY6970](./information/EVB_SY6970.pdf)
+* [TD501D485H-A_YLPTEC](./information/TD501D485H-A_YLPTEC.pdf)
+* [TD501MCANFD_MORNSUN](./information/TD501MCANFD_MORNSUN.pdf)
 
 ## DependentLibraries
-* [Arduino_GFX-1.3.7](https://github.com/moononournation/Arduino_GFX)
-* [Arduino_DriveBus-1.1.8](https://github.com/Xk-w/Arduino_DriveBus)
+* [FastLED-3.6.0](https://github.com/FastLED/FastLED)
 
