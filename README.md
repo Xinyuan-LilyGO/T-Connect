@@ -3,11 +3,15 @@
  * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-07-10 14:15:58
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2024-11-20 13:39:03
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Connect</h1>
+
+<p align="center" width="100%">
+    <img src="image/12.jpg" alt="">
+</p>
 
 ## **English | [中文](./README_CN.md)**
 
@@ -20,7 +24,7 @@
 
 | Product                     | SOC           |  FLASH  |  PSRAM   | Link                   |
 | :------------------------: | :-----------: |:-------: | :---------: | :------------------: |
-| T-Connect   | ESP32S3R8 |   16M   | 8M (Octal SPI) |   [Not yet sold]()  |
+| T-Connect   | ESP32S3R8 |   16M   | 8M (Octal SPI) | [LILYGO Mall](https://lilygo.cc/products/t-connect?_pos=1&_sid=33e78ceb7&_ss=r) |
 
 ## Directory
 - [Describe](#describe)
@@ -40,9 +44,23 @@ T-Connect is a board with four different sets of module output data. It supports
 
 ## Preview
 
-### PCB board
+### Actual Product Image
 
-### Rendering
+<p align="center" width="100%">
+    <img src="image/12.jpg" alt="">
+</p>
+
+---
+
+<p align="center" width="100%">
+    <img src="image/13.jpg" alt="">
+</p>
+
+---
+
+<p align="center" width="100%">
+    <img src="image/14.jpg" alt="">
+</p>
 
 ## Module
 
@@ -115,6 +133,7 @@ T-Connect is a board with four different sets of module output data. It supports
 | Flash Mode                         | QIO 80MHz                         |
 | Flash Size                           | 16MB (128Mb)                    |
 | Core Debug Level                | None                                 |
+| Partition Scheme                | 16M Flash (3MB APP/9.9MB FATFS) |
 | PSRAM                                | OPI PSRAM                         |
 | Arduino Runs On                  | Core 1                               |
 | Events Run On                     | Core 1                               |           

@@ -3,8 +3,8 @@
  * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-07-10 14:16:11
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2024-11-20 13:38:24
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Connect</h1>
@@ -20,7 +20,7 @@
 
 | Product                     | SOC           |  FLASH  |  PSRAM   | Link                   |
 | :------------------------: | :-----------: |:-------: | :---------: | :------------------: |
-| T-Connect   | ESP32S3R8 |   16M   | 8M (Octal SPI) |  [暂未售卖]()  |
+| T-Connect   | ESP32S3R8 |   16M   | 8M (Octal SPI) | [LILYGO Mall](https://lilygo.cc/products/t-connect?_pos=1&_sid=33e78ceb7&_ss=r) |
 
 ## 目录
 - [描述](#描述)
@@ -40,10 +40,23 @@ T-Connect是一款拥有4组不同模块输出数据的板子，支持CAN和RS48
 
 ## 预览
 
-### PCB板
+### 实物图
 
-### 渲染图
+<p align="center" width="100%">
+    <img src="image/12.jpg" alt="">
+</p>
 
+---
+
+<p align="center" width="100%">
+    <img src="image/13.jpg" alt="">
+</p>
+
+---
+
+<p align="center" width="100%">
+    <img src="image/14.jpg" alt="">
+</p>
 
 ## 模块
 
@@ -116,6 +129,7 @@ T-Connect是一款拥有4组不同模块输出数据的板子，支持CAN和RS48
 | Flash Mode                         | QIO 80MHz                         |
 | Flash Size                           | 16MB (128Mb)                    |
 | Core Debug Level                | None                                 |
+| Partition Scheme                | 16M Flash (3MB APP/9.9MB FATFS) |
 | PSRAM                                | OPI PSRAM                         |
 | Arduino Runs On                  | Core 1                               |
 | Events Run On                     | Core 1                               |        
