@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-11-20 13:38:24
+ * @LastEditTime: 2024-11-20 13:46:02
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Connect</h1>
@@ -92,7 +92,7 @@ T-Connect是一款拥有4组不同模块输出数据的板子，支持CAN和RS48
 
 | Firmware | Description | Picture |
 | ------  | ------  | ------ |
-| [Original Test V1.0.3](./firmware/[T-Connect_V1.0][Original_Test]_firmware_V1.0.3.bin) | 出厂初始测试文件 |  |
+| [Original_Test](./firmware/[T-Connect_V1.0][Original_Test]_firmware_V1.0.3.bin) | 出厂初始测试文件 |  |
 
 ### PlatformIO
 1. 安装[VisualStudioCode](https://code.visualstudio.com/Download)，根据你的系统类型选择安装。
