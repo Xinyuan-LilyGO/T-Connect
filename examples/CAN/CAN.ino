@@ -6,7 +6,7 @@
     Press the BOOT button to switch output channels
  * @Author: LILYGO_L
  * @Date: 2024-02-27 09:06:27
- * @LastEditTime: 2024-07-10 10:24:35
+ * @LastEditTime: 2025-01-09 10:36:38
  * @License: GPL 3.0
  */
 

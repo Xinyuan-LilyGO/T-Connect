@@ -7,7 +7,7 @@
     the board lights up red, and pressing the BOOT button can reset the status
  * @Author: LILYGO_L
  * @Date: 2024-07-10 10:18:44
- * @LastEditTime: 2024-12-18 09:20:38
+ * @LastEditTime: 2025-01-09 10:14:22
  * @License: GPL 3.0
  */
 
@@ -537,7 +537,7 @@ bool CAN_Device_Initialization(uint8_t tx, uint8_t rx)
 {
     // Initialize configuration structures using macro initializers
     twai_general_config_t g_config = TWAI_GENERAL_CONFIG_DEFAULT((gpio_num_t)tx, (gpio_num_t)rx, TWAI_MODE_NORMAL);
-    twai_timing_config_t t_config = TWAI_TIMING_CONFIG_500KBITS();
+    twai_timing_config_t t_config = TWAI_TIMING_CONFIG_1MBITS();
     twai_filter_config_t f_config = TWAI_FILTER_CONFIG_ACCEPT_ALL();
 
     // Install TWAI driver
