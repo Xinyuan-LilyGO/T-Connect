@@ -7,7 +7,7 @@
     the board lights up red, and pressing the BOOT button can reset the status
  * @Author: LILYGO_L
  * @Date: 2024-07-10 10:18:44
- * @LastEditTime: 2025-01-09 10:14:22
+ * @LastEditTime: 2025-06-21 09:48:44
  * @License: GPL 3.0
  */
 
@@ -719,8 +719,8 @@ void setup()
     FastLED.show();
     delay(1000);
 
-    // Wifi_STA_Test();
-    // WIFI_STA_Test_Loop();
+    Wifi_STA_Test();
+    WIFI_STA_Test_Loop();
 
     if (Wifi_Connection_Flag == true)
     {
